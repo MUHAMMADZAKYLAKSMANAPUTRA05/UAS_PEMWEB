@@ -1,6 +1,6 @@
 # 📦 Stocks Management System 
 
-**Stock** Stock adalah solusi manajemen inventaris yang kuat dan intuitif yang dibangun menggunakan Laravel dan FilamentPHP, dirancang untuk menyederhanakan pengelolaan stok, pesanan, pemasok, dan peran pengguna — semuanya dalam satu sistem terintegrasi.
+**Stockx** adalah solusi manajemen inventaris yang kuat dan intuitif yang dibangun menggunakan Laravel dan FilamentPHP, dirancang untuk menyederhanakan pengelolaan stok, pesanan, pemasok, dan peran pengguna — semuanya dalam satu sistem terintegrasi.
 
 Baik Anda mengelola gudang, bisnis kecil, maupun operasi skala besar, StockX menyediakan semua alat yang Anda butuhkan untuk menjaga inventaris tetap tertata dan terkendali.
 
