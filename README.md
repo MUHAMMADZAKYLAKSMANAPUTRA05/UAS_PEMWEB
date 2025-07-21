@@ -147,19 +147,3 @@ php artisan serve
 ```bash
 npm run dev
 ```
-
-<!-- ## 📈 Repository Traffic -->
-
-<!-- - **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/abogo-nono/StocksX?style=social)
-- **Forks:** ![GitHub Repo forks](https://img.shields.io/github/forks/abogo-nono/StocksX?style=social) -->
-
-
-## 🤝 Feedback & Contributions
-
-We’d love to hear your thoughts!  
-- 🐛 Found a bug? [Open an issue](https://github.com/abogo-nono/StocksX/issues)  
-- 🌟 Got a feature idea? Share it or [submit a pull request](https://github.com/abogo-nono/StocksX/pulls)
-
-## 📄 License
-
-This project is open-source and available under the **[MIT License](LICENSE)**.
