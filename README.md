@@ -4,41 +4,73 @@
 
 Baik Anda mengelola gudang, bisnis kecil, maupun operasi skala besar, StockX menyediakan semua alat yang Anda butuhkan untuk menjaga inventaris tetap tertata dan terkendali.
 
+📑 Manajemen Pemesanan
 
-## 🚀 Key Features
+Penanganan Pesanan – Buat dan kelola pesanan dengan validasi stok otomatis dan pembaruan inventaris secara dinamis.
 
-### 📦 Inventory Management
-- **Product Categories** – Create, update, soft-delete, and manage product categories.
-- **Suppliers** – Maintain supplier records with full CRUD capabilities.
-- **Products** – Track products with key details like quantity, supplier, pricing, and category.
+Validasi Stok – Memastikan ketersediaan produk saat proses pemesanan.
 
-### 📑 Order Management
-- **Order Handling** – Create and manage orders with automatic stock validation and dynamic inventory updates.
-- **Stock Validation** – Ensure product availability during order processing.
-- **Low Stock Alerts** – Email notifications when stock dips below a set threshold.
+Peringatan Stok Menipis – Notifikasi email otomatis ketika stok berada di bawah ambang batas.
 
-### 👥 User & Role Management
-- **User Admin** – Create, edit, and manage users with role assignments.
-- **Role-Based Access Control (RBAC)** – Fine-tuned permission handling with **Filament Shield**.
 
-### 🔔 Notifications
-- **Low Stock Emails** – Automatic alerts to notify admins when stock is low.
 
-### 📊 Dashboard & Analytics
-- **Interactive Charts** – Visualize sales and inventory trends.
-- **Quick Stats** – Glance at total users, products, orders, and alerts.
+---
 
-### 🧭 Global Search
-- **Smart Search** – Look up products, orders, and suppliers with rich result details.
-- **Quick Navigation** – Jump straight to the item’s page from search results.
+👥 Manajemen Pengguna & Peran
 
-### 🔍 Filters & Tabs
-- **Order Filters** – Filter by custom timeframes like today, this week, or this year.
-- **Supplier Tabs** – Organize suppliers by product categories.
+Admin Pengguna – Buat, edit, dan kelola akun pengguna lengkap dengan penugasan peran.
 
-### 🔐 Authentication & Security
-- **Secure Login** – Full auth system with email verification.
-- **Permissions System** – Restrict access by user roles for enhanced security.
+Kontrol Akses Berbasis Peran (RBAC) – Pengaturan izin akses yang rinci menggunakan Filament Shield.
+
+
+
+---
+
+🔔 Notifikasi
+
+Email Stok Rendah – Notifikasi otomatis kepada admin saat stok barang menipis.
+
+
+
+---
+
+📊 Dashboard & Analitik
+
+Grafik Interaktif – Visualisasi tren penjualan dan stok barang.
+
+Statistik Cepat – Informasi singkat seperti total pengguna, produk, pesanan, dan peringatan.
+
+
+
+---
+
+🧭 Pencarian Global
+
+Pencarian Pintar – Cari produk, pesanan, dan pemasok dengan hasil yang lengkap dan informatif.
+
+Navigasi Cepat – Langsung menuju halaman item dari hasil pencarian.
+
+
+
+---
+
+🔍 Filter & Tab
+
+Filter Pesanan – Saring data berdasarkan waktu khusus seperti hari ini, minggu ini, atau tahun ini.
+
+Tab Pemasok – Kelompokkan pemasok berdasarkan kategori produk.
+
+
+
+---
+
+🔐 Autentikasi & Keamanan
+
+Login Aman – Sistem autentikasi lengkap dengan verifikasi email.
+
+Sistem Izin – Batasi akses fitur berdasarkan peran pengguna untuk keamanan maksimal.
+
+
 
 ## 🖼️ Screenshots
 
