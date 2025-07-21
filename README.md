@@ -1,4 +1,4 @@
-# 📦 StockX – Stocks Management System  
+# 📦 Stocks Management System 
 
 **StockX** is a powerful and intuitive inventory management solution built with **Laravel** and **FilamentPHP**, designed to streamline your stock, orders, suppliers, and user roles—all in one place. Whether you're managing a warehouse, a small business, or a large-scale operation, StockX provides all the tools you need to keep your inventory under control.
 
